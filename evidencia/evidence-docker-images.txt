@@ -1,0 +1,12 @@
+REPOSITORY                  TAG       IMAGE ID       CREATED          SIZE
+mi-redis                    1.0       b21b9cd82c50   23 minutes ago   117MB
+mariaj                      v2        7d6db9c85f15   4 days ago       192MB
+nginx                       latest    ad5708199ec7   11 days ago      192MB
+hello-world                 latest    1b44b5a3e06a   2 weeks ago      10.1kB
+mysql                       8.0       9340b388320f   4 weeks ago      781MB
+redis                       7         56825e2b84a2   7 weeks ago      117MB
+mongo                       latest    6595a4d1b15f   4 months ago     888MB
+confluentinc/cp-kafka       latest    a2716a120846   6 months ago     1.1GB
+confluentinc/cp-zookeeper   latest    725e1614cf4d   6 months ago     1.1GB
+confluentinc/cp-kafka       7.5.0     af34583c49f0   2 years ago      849MB
+confluentinc/cp-zookeeper   7.5.0     04bd40128a4e   2 years ago      849MB

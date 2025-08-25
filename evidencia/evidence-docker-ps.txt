@@ -1,0 +1,7 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS                      PORTS                    NAMES
+43e73a19bacf   mi-redis:1.0   "docker-entrypoint.s…"   21 minutes ago   Up 19 minutes               0.0.0.0:6379->6379/tcp   mi-redis
+4d0af9c6d352   mysql:8.0      "docker-entrypoint.s…"   4 days ago       Created                                              mi-mysql
+cf5f8b28eb1b   mariaj:v2      "/docker-entrypoint.…"   4 days ago       Up 4 days                   0.0.0.0:8081->80/tcp     heuristic_dubinsky
+f0acdedc1698   nginx          "/docker-entrypoint.…"   4 days ago       Up 4 days                   0.0.0.0:8080->80/tcp     mi-servidor
+d8d489a00c6a   hello-world    "/hello"                 4 days ago       Exited (0) 4 days ago                                practical_haslett
+8988d4ea3784   mongo:latest   "docker-entrypoint.s…"   2 months ago     Exited (132) 2 months ago                            orderBD
